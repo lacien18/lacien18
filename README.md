@@ -1,4 +1,4 @@
-## ✌️ Hi, I'm Richar, I have more than 3 years of experience as a front-end programmer, passionate about application development and enthusiastic about the world of computing.
+## ✌️ Hi, I'm Richar, I have more than 4 years of experience as a front-end programmer, passionate about application development and enthusiastic about the world of computing.
 <div align="center"><br>
   <a href="https://github.com/lacien18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lacien18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
